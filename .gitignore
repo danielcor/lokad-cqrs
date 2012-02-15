@@ -15,3 +15,5 @@ _ReSharper.*
 *.pidb
 *.userprefs
 test-results
+*.dotCover
+*.StyleCop
